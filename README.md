@@ -1,14 +1,13 @@
-### I am Samuel Slade, Independent Consultant and Director of Slade Software Ltd
+### I am Samuel Slade, Senior Architect at BPP
 
-## I'm a Husband-to-be, Father, Developer and Consultant
-- I'm currently rebuilding the company website
-- I'm (slowly) working my way through an ever growing list of project ideas
+## I'm a Husband, Father, Architect and Developer
+- I'm actively building a fan-made game in Unity
+- I'm casually writing a fantasy novel
 - I'm constantly learning new technologies, languages, patterns and practices
 - I'm always challenging the status quo
 
 ### Connect with me
 
-[<img align="left" alt="Slade Software Ltd" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [StackOverflow][stackoverflow]
 
@@ -42,6 +41,5 @@
 - [IR35 from a different perspective](https://www.sladesoftware.co.uk/blog/ir35-from-a-different-perspective)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://www.sladesoftware.co.uk/
 [linkedin]: https://www.linkedin.com/in/samuelslade/
 [stackoverflow]: https://stackoverflow.com/users/308012/samuel-slade
