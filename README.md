@@ -1,10 +1,15 @@
-### I am Samuel Slade, Senior Architect at BPP
+### I am Samuel Slade, Senior Software Architect at BPP
 
 ## I'm a Husband, Father, Architect and Developer
 - I'm actively building a fan-made game in Unity
 - I'm casually writing a fantasy novel
 - I'm constantly learning new technologies, languages, patterns and practices
 - I'm always challenging the status quo
+
+### Achievements
+- [June 2023] Achieved AWS Certified Solutions Architect Associate level
+- [2018] Joined Mensa
+- [2011] Attained a First Class Degree (with Honours) in Computer Games Programming from Huddersfield University
 
 ### Connect with me
 
