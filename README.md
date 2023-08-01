@@ -38,11 +38,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Elasticsearch, Logstash, and Kibana on Kubernetes with Helm](https://www.sladesoftware.co.uk/blog/running-elasticsearch-logstash-and-kibana-on-kubernetes-with-helm)
-- [Logging Best Practices in .NET Core 3.1](https://www.sladesoftware.co.uk/blog/logging-best-practices-in-net-core-3-1)
-- [Managing Docker Logs with ELK and Fluentd](https://www.sladesoftware.co.uk/blog/managing-docker-logs-with-elk-and-fluentd)
-- [Should contractor terminology change?](https://www.sladesoftware.co.uk/blog/should-contractor-terminology-change)
-- [IR35 from a different perspective](https://www.sladesoftware.co.uk/blog/ir35-from-a-different-perspective)
+- [Running Elasticsearch, Logstash, and Kibana on Kubernetes with Helm]([https://www.sladesoftware.co.uk/blog/running-elasticsearch-logstash-and-kibana-on-kubernetes-with-helm](https://coralogix.com/blog/elasticsearch-logstash-kibana-on-kubernetes/))
+- [Logging Best Practices in .NET Core 3.1]([https://www.sladesoftware.co.uk/blog/logging-best-practices-in-net-core-3-1](https://coralogix.com/blog/net-logging-best-practices-for-your-net-application/))
+- [Managing Docker Logs with ELK and Fluentd]([https://www.sladesoftware.co.uk/blog/managing-docker-logs-with-elk-and-fluentd](https://coralogix.com/log-analytics-blog/managing-docker-logs-with-elk-and-fluentd/))
 <!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/samuelslade/
